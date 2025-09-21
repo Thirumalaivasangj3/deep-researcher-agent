@@ -1,0 +1,7 @@
+streamlit
+sentence-transformers
+pdfplumber
+scikit-learn
+tqdm
+# optional (if you want FAISS and it's installable on your machine):
+# faiss-cpu
